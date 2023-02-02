@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "72402054323",
+    "firebase_url": "https://fish-masters-live-test.firebaseio.com",
+    "project_id": "fish-masters-live-test",
+    "storage_bucket": "fish-masters-live-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72402054323:android:31965c8b8c4ac3f51754c6",
+        "android_client_info": {
+          "package_name": "com.fishmasters.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72402054323-31cvop2rbmju91ukfi1c7vl8qob3mg0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxenw0IT9mSB5P7vF1vZRR_nhVhJl5ZnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72402054323-31cvop2rbmju91ukfi1c7vl8qob3mg0p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "72402054323-hgm4uncuissjlu0um8hqeognm8q8keu6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.digitalfishsolutions.fishMastersLive"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
